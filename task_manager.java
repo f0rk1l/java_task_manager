@@ -159,7 +159,7 @@ final class TaskManager
     }
 }
 
-public class Main {
+public class task_manager {
     public static void main(String[] args)
     {
         Scanner scanner = new Scanner(System.in);
